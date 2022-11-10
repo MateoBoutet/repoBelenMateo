@@ -2,6 +2,6 @@ let saludo = "Hola Mateo";
 
 console.log(saludo);
 
-let hola = "Buenas tardes";
+let hola = "Hola como va?";
 
 console.log(hola);
