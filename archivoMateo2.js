@@ -1,1 +1,3 @@
-console.log(2);
+let saludo = "Hola que tal?";
+
+console.log(saludo);
